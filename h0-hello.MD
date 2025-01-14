@@ -10,6 +10,6 @@ That's heading two
 
 And that's heading three
 
-  This is code
+    This is code
 
 Wow!
