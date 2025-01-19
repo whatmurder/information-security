@@ -1,4 +1,4 @@
-### h1 Should Tero wear a helmet?
+# h1 Should Tero wear a helmet?
 
 ## x) Read / watch / listen and summarize
 
@@ -16,4 +16,7 @@ svbsdbfgisd
 
 ### Sources
 
-[https://terokarvinen.com/information-security/] (https://terokarvinen.com/information-security/)
+
+https://terokarvinen.com/information-security/
+
+https://www.threatmodelingmanifesto.org/
