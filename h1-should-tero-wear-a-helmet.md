@@ -27,13 +27,20 @@ I decided to pick the episodes 45 & 46 which goes over the history of the hackin
 
 ## a) Security hygiene
 
-dasdasdad
+1. Passwords
+   * Use a secure password
+   * Use a password that's unique and that you don't use on other sites
+   * Preferably use a password manager
+
+2. Common sense
+   * If something seems too good to be true, it most likely is (No, Elon Musk isn't giving you 1000 ETH if you click that link)
+   * Do some research before putting your information onto any site. Do basic googling etc.
+   * Read. Reading in general is good and blindly clicking things without reading will most likely end in a unpleasant way.
+
 
 ## b) Make-belief boogie-man
 
-svbsdbfgisd
-
-
+WIP
 
 ### Sources
 
