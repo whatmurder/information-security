@@ -13,7 +13,14 @@ national security information.
 * Kill Chain is a systematic process to attack the desired target. The kill chain described in the paper consists of seven steps:
 	1. Reconnaissance
  	2. Weaponization
-  	3.   
+  	3. Delivery
+  	4. Exploitation
+  	5. Installation
+  	6. Command and Control
+  	7. Actions on Objectives
+
+ * By analyzing the kill chain the defender can develop a more robust defences against APTs and other types of attacks and can help the defender to slow down, stop or deter the possible attack.
+	* The killchain model *"[...]serves as a framework to measure the effectiveness of the defenders’ actions"*
 
 ## a) Tactics, tools and procedures
 
@@ -24,6 +31,8 @@ asdASas
 https://terokarvinen.com/information-security/#h2-kill-chain
 
 https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+
+https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
 https://attack.mitre.org/
 
