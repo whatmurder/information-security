@@ -62,3 +62,5 @@ https://attack.mitre.org/
 
 https://attack.mitre.org/resources/faq/#general-faq
 
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-xfce.iso
+
