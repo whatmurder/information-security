@@ -46,7 +46,7 @@ national security information.
 
 Here's the .iso on my hard drive.
 
-!https://github.com/whatmurder/information-security/blob/main/debian-on-my-hardrive.png
+![debian on my hardrive wow](https://github.com/whatmurder/information-security/blob/main/debian-on-my-hardrive.png)
 
 So cool.
 
