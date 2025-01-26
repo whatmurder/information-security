@@ -44,7 +44,11 @@ national security information.
 
 ## b) Download Linux
 
-I have a copy of Debian 12.9.0. LTS on my laptops hardrive. You're gonna have to believe me on this one since I don't know how to prove this to you. 
+Here's the .iso on my hard drive.
+
+!https://github.com/whatmurder/information-security/blob/main/debian-on-my-hardrive.png
+
+So cool.
 
 ### Sources
 
