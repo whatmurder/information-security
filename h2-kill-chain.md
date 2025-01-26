@@ -42,6 +42,10 @@ national security information.
 	* The exact steps the attacker takes in the attack.
 	* **Example:** Attacker meticulously crafts the fake login page to trick you => They come up with an scenario as to why they have to send you a password reset email => They write out the email and send it to you => You, the poor victim, open the email and go into the fradulent password reset page and type out all of your information => The attacker now has your information and they proceed to log in to your account and change all the information so you can't get into it anymore. Now the attacker has all of your cool props and invites all of his friends to your room and hosts the most epic *Tuolari* ever and after that sells all your stuff for some extra *Kole*'s. 
 
+## b) Download Linux
+
+I have a copy of Debian 12.9.0. LTS on my laptops hardrive. You're gonna have to believe me on this one since I don't know how to prove this to you. 
+
 ### Sources
 
 https://terokarvinen.com/information-security/#h2-kill-chain
