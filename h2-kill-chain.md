@@ -30,15 +30,15 @@ national security information.
 	* The reason for the attack
 	* **Example:** The attacker wants to steal your Habbo Hotel account for themselves.
 
-2.1. Technique: 
+2. Technique: 
 	* The method of the attack
  	* **Example:** The attacker is going to steal your password to gain access to your precious Habbo Hotel account with the rare vinyl player prop by *Phishing (T1566)*
 
-2.2. Subtechnique
+3. Subtechnique
 	* A more indepth look at the method of the attack.
  	* **Example:** The attacker sends you an email posing as the administrative staff of Habbo Hotel where you're prompted to change your credentials for security reasons with a link to fradulent password reset site. This is known as a *Spearphishing Link (T1566.002)*
 
-3. Procedure
+4. Procedure
 	* The exact steps the attacker takes in the attack.
 	* **Example:** Attacker meticulously crafts the fake login page to trick you => They come up with an scenario as to why they have to send you a password reset email => They write out the email and send it to you => You, the poor victim, open the email and go into the fradulent password reset page and type out all of your information => The attacker now has your information and they proceed to log in to your account and change all the information so you can't get into it anymore. Now the attacker has all of your cool props and invites all of his friends to your room and hosts the most epic *Tuolari* ever and after that sells all your stuff for some extra *Kole*'s. 
 
