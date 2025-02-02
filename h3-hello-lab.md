@@ -12,7 +12,7 @@ I installed neofetch for fun because it's cool and I don't care that it's deprec
 
 Some thoughts on the reading material and the Debian installation:
 
-* The *Command Line Basics Revisited* document is in my opinion super useful and should probably be taught to everybody who comes to study computer science in Haaga-Helia
+* The *Command Line Basics Revisited* document is in my opinion super useful and should probably be taught to everybody who comes to study computer science in Haaga-Helia 
 * I haven't used the *XFCE* desktop enviroment before, it seems fairly lightweight and easy to use for beginners. Visually I don't enjoy it that much, I prefer *Gnome* over it.
 
 ## a) Can't fish
@@ -29,3 +29,13 @@ I let it ping three times
 
 I just disabled the internet connection. It did the trick. I technically passed.
 
+## b) Local only
+
+In this exercise I installed the tools that the Hints section told me to install
+
+    sudo apt install nmap -y
+
+The I disabled my internet connection again and ran the command:
+![Terminal after running nmap](https://github.com/whatmurder/information-security/blob/main/img/h3-deb-04.png)
+
+The two open ports were Port 80 for HTTP and Port 631 for IPP
