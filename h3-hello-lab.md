@@ -36,6 +36,7 @@ In this exercise I installed the tools that the Hints section told me to install
     sudo apt install nmap -y
 
 The I disabled my internet connection again and ran the command:
+
 ![Terminal after running nmap](https://github.com/whatmurder/information-security/blob/main/img/h3-deb-04.png)
 
 The two open ports were Port 80 for HTTP and Port 631 for IPP
