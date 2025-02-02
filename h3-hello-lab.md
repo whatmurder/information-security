@@ -67,3 +67,24 @@ Then to the actual exercise. I ran the same nmap command from the previous exerc
 
 The difference between the previous nmap and this one is that we have an additional port open, the port 22, which is used by the OpenSSH. Cool!
 
+## d) Bandit oh-five
+
+### Level 0
+
+I'm not familiar at all with SSH, so this level took a bit of internet browsing and research to figure out how to do.
+
+Eventually I got the correct answer by logging in to the game by running this comman in the terminal:
+
+    ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+![bandit0](https://github.com/whatmurder/information-security/blob/main/img/h3-deb-07.png)
+
+The *-p* specifies which port to connect to.
+
+### Level 1
+
+Level one was easy, all it took was the commands *ls* and *cat*
+
+![bandit1](https://github.com/whatmurder/information-security/blob/main/img/h3-deb-08.png)
+
+Doing that I got the password for the next level. Yippee!
