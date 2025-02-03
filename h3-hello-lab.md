@@ -141,5 +141,14 @@ These were pretty fun and I might do the rest of them in the future if I'm bored
 
 ### Sources:
 
-https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using-terminal
+https://terokarvinen.com/information-security/
 
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
+
+https://terokarvinen.com/2020/command-line-basics-revisited/
+
+https://overthewire.org/wargames/bandit/
+
+https://manpages.ubuntu.com/manpages/noble/man1/ssh.1.html
+
+https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using-terminal
