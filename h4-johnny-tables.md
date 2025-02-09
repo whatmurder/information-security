@@ -81,6 +81,22 @@ So I actually just installed this Debian instance today and fully updated it, bu
 
 ## d) Sequel
 
+Solve SQLZoo
+
+### 0 SELECT basics
+
+Here's what I did for the *0 SELECT basics*:
+
+![0 Select Basics solutions](https://github.com/whatmurder/information-security/blob/main/img/h4-d-0.png)
+
+EZPZ
+
+### 2 SELECT from World
+
+And here's the solutions for *2 SELECT from World* exercises:
+
+![2 SELECT from World solutions](https://github.com/whatmurder/information-security/blob/main/img/h4-d-2.png)
+
 ## e)  Solve Portswigger Labs
 
 ### Sources:
