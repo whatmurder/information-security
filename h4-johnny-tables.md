@@ -51,6 +51,8 @@ https://xkcd.com/327/
 
 https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/
 
+https://www.cyberciti.biz/faq/how-to-install-wget-togetrid-of-error-bash-wget-command-not-found/
+
 https://sqlzoo.net/wiki/SQL_Tutorial
 
 https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
