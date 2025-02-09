@@ -67,7 +67,7 @@ We get our magic number and then we just copy and paste it into the input field 
 To clear this exercise you have to paste the mysterious random number from a HTTP request. To get the HTTP request you have to press the *Go!* button.
 After pressing that you (surprisingly) open the the Network tab from the Developer Console, find the request called *network* and then you you just copy-paste number from the *networkNum:* field to the input field. 
 
-!{Webgoat TryIt! Working with the Network tab](https://github.com/whatmurder/information-security/blob/main/img/h4-b-try-it-network-tab.png)
+![Webgoat TryIt! Working with the Network tab](https://github.com/whatmurder/information-security/blob/main/img/h4-b-try-it-network-tab.png)
 
 🎉🥳🍾🎊
 
