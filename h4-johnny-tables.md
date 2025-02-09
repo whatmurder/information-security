@@ -4,9 +4,32 @@
 
 ## a) Goat
 
+Installing *Webgoat* was pretty straight forward by following the guide given, only thing that took a little more research was installing *wget*.
+I thought I remembered how to install new programs on Linux but it seems I mistyped the install command, so I googled how to install it.
+
+This is how I tried to do it at first:
+
+    sudo apt get wget
+    
+Which of course didn't work. So I did a little googling and found out the proper command:
+
+    sudo apt install wget
+
+That worked and now we have wget on our Debian installation, wahoo.
+
+After that I followed to guide again, launched *Webgoat*, made an account (after disconnecting from the internet of course) and tadah:
+
+![Screenshot of Webgoat running](https://github.com/whatmurder/information-security/blob/main/img/h4-a-webgoat-installed.png)
+
 ## b) F12
 
 ## c) Not outdated
+
+So I actually just installed this Debian instance today and fully updated it, but here's a screenshot of me updating and -grading it again:
+
+![nothing to update](https://github.com/whatmurder/information-security/blob/main/img/h4-c-not-outdated.png)
+
+
 
 ## d) Sequel
 
