@@ -99,6 +99,24 @@ And here's the solutions for *2 SELECT from World* exercises:
 
 ## e)  Solve Portswigger Labs
 
+After making the account (I don't really like making random accounts) I just clicked around on the site for a while until I clicked one of the categories. Clicking on the category added this to the end of the URL:
+
+    /filter?category=Accessories
+
+After that I got stuck and just decided that I'll click the solution to see how it's done. The second part of the gave me the answer I was looking for by giving me the parameter I have to use instead of the *Accessories*
+
+![The magic word to solve the exercise](https://github.com/whatmurder/information-security/blob/main/img/h4-e-solution.png)
+
+So I just modified the url to this:
+
+    /filter?category='+OR+1=1--
+
+And after pressing enter the page said I solved it. 
+
+![My Portswigger Labs solution](https://github.com/whatmurder/information-security/blob/main/img/h4-e-solved.png)
+
+That's all folks.
+
 ### Sources:
 
 https://terokarvinen.com/information-security/
