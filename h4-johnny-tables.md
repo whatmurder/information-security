@@ -48,6 +48,29 @@ After that I followed to guide again, launched *Webgoat*, made an account (after
 
 ## b) F12
 
+Solve Webgoat 2023.4: General: Developer tools.
+
+### Try It! Using the console
+
+In this task you're supposed to run a little ittybitty Javascript function in the Developer Console to get a randomly generated number to paste into the input field.
+
+The function in question: 
+
+    webgoat.customjs.phoneHome()
+
+We get our magic number and then we just copy and paste it into the input field and we've completed the exercise.
+
+![Webgoat TryIt! Using The Console solved](https://github.com/whatmurder/information-security/blob/main/img/h4-b-try-it-console.png)
+
+### Try It! Working with the Network tab
+
+To clear this exercise you have to paste the mysterious random number from a HTTP request. To get the HTTP request you have to press the *Go!* button.
+After pressing that you (surprisingly) open the the Network tab from the Developer Console, find the request called *network* and then you you just copy-paste number from the *networkNum:* field to the input field. 
+
+!{Webgoat TryIt! Working with the Network tab](https://github.com/whatmurder/information-security/blob/main/img/h4-b-try-it-network-tab.png)
+
+🎉🥳🍾🎊
+
 ## c) Not outdated
 
 So I actually just installed this Debian instance today and fully updated it, but here's a screenshot of me updating and -grading it again:
