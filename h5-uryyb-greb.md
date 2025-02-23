@@ -2,11 +2,41 @@
 
 ## x) Read and summarize
 
-fadasfasf
+### Schneier 2015: Applied Cryptography
+
+* A message that hasn't been encrypted is called plaintext.
+* A message that has been encypted is called ciphertext.
+* To view a encyprted message you have to decrypt it.
+* Encypting and decrypting are a part of cryptology.
+
+### PGP - Send Encrypted and Signed Message - gpg
+
+The artice is a guide on how to send a secret message online. The message is encrypted using GPG, which is a PGP tool, on Linux.
+
+* GPG stands for GNU Privacy Guard.
+* To establish secure means of communication between two parties, public keys and fingerprints need to be exchanged.
 
 ## a) Install OpenSSH server
 
-sdgsddfgfgsg
+To install OpenSSH you run the command 
+
+    sudo apt-get install ssh
+
+![Installing OpenSSH](https://github.com/whatmurder/information-security/blob/main/img/h5-a-install-ssh.png)
+
+Tadah it's installed. Then I logged in to my own server using the command
+
+    ssh 127.0.0.1
+
+The *127.0.0.1* stands for localhost. 
+
+![Localhosting it up](https://github.com/whatmurder/information-security/blob/main/img/h5-a-run-ssh-01.png)
+
+*hacker voice* We're in.
+
+![Localhosting it out](https://github.com/whatmurder/information-security/blob/main/img/h5-a-run-ssh-02.png)
+
+*hacker voice* We're out.
 
 ## b) Automate SSH connection using public keys.
 
@@ -14,11 +44,11 @@ dasdsafsdgsdfgaf
 
 ## c) Pretty Good indeed
 
-sdvsdgdhdfgsdgsdfg
+WIP
 
 ## d) Password manager, open and cloudless
 
-### Password manager pros
+### Password manager benefits
 
 You should use secure passwords on all of your accounts, and coming up with secure ones that you can also remember is difficult. People tend to get lazy and would rather use a password they remember everywhere rather han come up with a new password. Here's where password managers come in to the picture: You'll only have to remember a single password!
 
