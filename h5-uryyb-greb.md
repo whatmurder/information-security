@@ -40,7 +40,7 @@ The *127.0.0.1* stands for localhost.
 
 ## b) Automate SSH connection using public keys.
 
-dasdsafsdgsdfgaf
+WIP
 
 ## c) Pretty Good indeed
 
