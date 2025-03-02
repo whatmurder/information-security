@@ -2,7 +2,16 @@
 
 ## x) Read or watch and summarize
 
-gfgdsgg
+### 2.3 ONE-WAY FUNCTIONS
+
+* One-way functions are easy to compute but hard to reverse.
+* One-way functions can't be decrypted, therefore they're not useful as an encryption method.
+* A trapdoor one-way function is a type of function with a, you guessed it, trapdoor.
+    * Like the normal one-way function, they are easy to compute but hard to reverse, but if you know the secret you can easily reverse it.
+
+### 2.4 ONE-WAY HASH FUNCTIONS
+
+gdfgdgdgd
 
 ## a) Install Hashcat
 
