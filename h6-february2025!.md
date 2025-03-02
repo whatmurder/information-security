@@ -62,6 +62,28 @@ Oh yeah.
 
 ## b) Crack this hash
 
+Ok now let's try to crack this hash `d595b2086532422bbe654bc07ea030df` using what we learned in the previous exercise.
+
+Let's scan the hash:
+
+    hashid -m d595b2086532422bbe654bc07ea030df
+
+![hash-crack-01](https://github.com/whatmurder/information-security/blob/main/img/h6-b-01.png)
+
+We'll assume it's MD5 again. Let's try cracking it:
+
+    hashcat -m 0 'd595b2086532422bbe654bc07ea030df' rockyou.txt -o answer
+
+![hash-crack-02](https://github.com/whatmurder/information-security/blob/main/img/h6-b-02.png)
+
+Now let's reveal the answer:
+
+    cat answer
+
+![hash-crack-02](https://github.com/whatmurder/information-security/blob/main/img/h6-b-03.png)
+
+Cool beans we did it.
+
 ### Sources:
 
 https://terokarvinen.com/information-security/
