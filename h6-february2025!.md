@@ -11,7 +11,11 @@
 
 ### 2.4 ONE-WAY HASH FUNCTIONS
 
-gdfgdgdgd
+* A one-way hash function is a key part of modern cryptography.
+* A hash function takes a input string (called a *pre-image*) and converts it into fixed lenght output string (called a *hash value*)
+* A good one-way hash function is collision-free.
+* A hash value is basically the fingerprint of a file. If you want to confirm you and someone else have the same file, you can compare the hash values.
+   * If even a bit is changed in the original file, the hash value will be different.
 
 ## a) Install Hashcat
 
