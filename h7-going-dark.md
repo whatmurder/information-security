@@ -2,7 +2,28 @@
 
 ## x) Read and summarize
 
-asfasfasfasf
+### 7 Things You Should Know About Tor
+
+1. NSA has tried to crack Tors anonymity, but have been unsuccesful at it. Only way they've found out someones identity is because of browser bugs or user mistakes.
+2. Tor isn't only used by criminals! Families can use it to protect their children, and journalists can use it to safely communicate.
+3. Tor is open source, and doesn't have any backdoors. If you want to check for yourself, you can go look at the source code.
+4. In the USA, nobody has been prosecuted for running a Tor Relay. A Tor Relay is basically a checkpoint your connection goes through to help anonymize your connection to the site you're trying to reach.
+5. Tor is easy to use! Just download it!
+6. Tor has been getting faster over the years. 🏃💨
+7. Tor doesn't guarante your anonymity. You need to use it correctly and keep everything updated to keep your anonymity safe.
+
+### Hiding Behind the Keyboard: The Tor Browser
+
+* Tor browser is a modified version of the Firefox browser. The modifications hides the users IP-address.
+* Tor is one of the easiest ways to remain anonymous on the internet.
+* Tor's intention is to enable anonymous communication on the internet.
+* Using Tor a person can access websites that have been blocked in the country they live in, allows whistleblowers to communicate while remaining anonymous and enables anonymous conversations.
+* Tor was developed by the US goverment, but the Tor network isn't controlled by a single entity. It's basically a group effort by users to improve/develop it.
+* Tor directs the users Internet traffic through relays while connecting to a website. In the entry point the users data gets encrypted, and each of the relays strips a little bit of the users encryption. None of the relays points know anything about the previous relay points except the previous relay point.
+* *"[...]sending data over Tor is like an onion, where a layer of encryption is peeled off as it goes through the Tor nodes to its final destination."*
+* Goverments are working on deanonymizing Tor, but in most cases a criminal in the darkweb is caught by the mistakes the user has made instead of the goverment breaking Tor.
+* The biggest weakness of Tor is the user.
+
 
 ## a) Install TOR browser and access TOR network (.onion addresses).
 
