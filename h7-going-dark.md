@@ -62,8 +62,10 @@ BusKill is a website where you can purchase USB-killcords for your laptop.
 ![buskill-01](https://github.com/whatmurder/information-security/blob/main/img/h7-b-03.png)
 
 *"What's a killcord?"* you may ask. This USB-killcord is a device/thingmajig/contraption/whatever that plugs into your laptop, and when removed - you guessed it - kills the laptop by either shutting it down or just wiping the thing
+
 The website describes it better:
-*BusKill can trigger your laptop to lock, shutdown, or self-destruct if it’s physically separated from you.*
+
+*"BusKill can trigger your laptop to lock, shutdown, or self-destruct if it’s physically separated from you."*
 
 ![buskill-02](https://github.com/whatmurder/information-security/blob/main/img/h7-b-04.png)
 
